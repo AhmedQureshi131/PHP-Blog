@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f01bfc22-55c3-4947-a366-e5c2ffdfb018" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8acfc307-8333-4e24-b197-8e9e83e95914.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8acfc307-8333-4e24-b197-8e9e83e95914/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/add_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/add_post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/delete_cat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/edit_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/edit_post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/includes/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dHFJMoEuafp22ztG1CsV5ffQjN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$/admin/includes" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f01bfc22-55c3-4947-a366-e5c2ffdfb018" name="Default Changelist" comment="" />
+      <created>1592074038177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592074038177</updated>
+      <workItem from="1592074040556" duration="59000" />
+      <workItem from="1592074133916" duration="9743000" />
+      <workItem from="1592105090768" duration="38117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="27" width="700" height="724" key="#PHP" timestamp="1592165663824">
+      <screen x="72" y="27" width="1336" height="724" />
+    </state>
+    <state x="310" y="27" width="700" height="724" key="#PHP/72.27.1336.724@72.27.1336.724" timestamp="1592165663824" />
+    <state x="323" y="50" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592074297476">
+      <screen x="72" y="27" width="1312" height="724" />
+    </state>
+    <state x="323" y="50" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1312.724@72.27.1312.724" timestamp="1592074297476" />
+    <state width="877" height="153" key="GridCell.Tab.0.bottom" timestamp="1592204491963">
+      <screen x="72" y="27" width="1368" height="724" />
+    </state>
+    <state width="793" height="153" key="GridCell.Tab.0.bottom/72.27.1336.724@72.27.1336.724" timestamp="1592161045178" />
+    <state width="877" height="153" key="GridCell.Tab.0.bottom/72.27.1368.724@72.27.1368.724" timestamp="1592204491963" />
+    <state width="851" height="153" key="GridCell.Tab.0.bottom/72.27.688.724@72.27.688.724" timestamp="1592178194103" />
+    <state width="877" height="153" key="GridCell.Tab.0.center" timestamp="1592204491963">
+      <screen x="72" y="27" width="1368" height="724" />
+    </state>
+    <state width="793" height="153" key="GridCell.Tab.0.center/72.27.1336.724@72.27.1336.724" timestamp="1592161045172" />
+    <state width="877" height="153" key="GridCell.Tab.0.center/72.27.1368.724@72.27.1368.724" timestamp="1592204491963" />
+    <state width="851" height="153" key="GridCell.Tab.0.center/72.27.688.724@72.27.688.724" timestamp="1592178194102" />
+    <state width="877" height="153" key="GridCell.Tab.0.left" timestamp="1592204491962">
+      <screen x="72" y="27" width="1368" height="724" />
+    </state>
+    <state width="793" height="153" key="GridCell.Tab.0.left/72.27.1336.724@72.27.1336.724" timestamp="1592161045170" />
+    <state width="877" height="153" key="GridCell.Tab.0.left/72.27.1368.724@72.27.1368.724" timestamp="1592204491962" />
+    <state width="851" height="153" key="GridCell.Tab.0.left/72.27.688.724@72.27.688.724" timestamp="1592178194101" />
+    <state width="877" height="153" key="GridCell.Tab.0.right" timestamp="1592204491963">
+      <screen x="72" y="27" width="1368" height="724" />
+    </state>
+    <state width="793" height="153" key="GridCell.Tab.0.right/72.27.1336.724@72.27.1336.724" timestamp="1592161045174" />
+    <state width="877" height="153" key="GridCell.Tab.0.right/72.27.1368.724@72.27.1368.724" timestamp="1592204491963" />
+    <state width="851" height="153" key="GridCell.Tab.0.right/72.27.688.724@72.27.688.724" timestamp="1592178194102" />
+    <state x="653" y="267" width="196" height="251" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1592090503911">
+      <screen x="72" y="27" width="1368" height="724" />
+    </state>
+    <state x="653" y="267" width="196" height="251" key="com.intellij.database.actions.DdlActions$CreateObject$1/72.27.1368.724@72.27.1368.724" timestamp="1592090503911" />
+    <state x="172" y="145" width="649" height="525" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1592252500573">
+      <screen x="72" y="27" width="1360" height="724" />
+    </state>
+    <state x="506" y="130" width="649" height="525" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/72.27.1176.724@72.27.1176.724" timestamp="1592090011314" />
+    <state x="172" y="145" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/72.27.1360.724@72.27.1360.724" timestamp="1592252500573" />
+    <state x="577" y="130" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/72.27.1368.724@72.27.1368.724" timestamp="1592090158634" />
+  </component>
+</project>

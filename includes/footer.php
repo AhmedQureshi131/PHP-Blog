@@ -14,7 +14,7 @@ $cats = $db->select($query);
 <aside class="col-md-4 blog-sidebar">
     <div class="p-4 mb-3 bg-light rounded">
         <h4 class="font-italic">About</h4>
-        <p class="mb-0">Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+        <p class="mb-0">Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).</p>
     </div>
 
     <div class="p-4">
@@ -31,9 +31,8 @@ $cats = $db->select($query);
     <div class="p-4">
         <h4 class="font-italic">Elsewhere</h4>
         <ol class="list-unstyled">
-            <li><a href="#">GitHub</a></li>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">Facebook</a></li>
+            <li><a href="https://github.com/AhmedQureshi131">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/ahmed-ali-qureshi-319420135/">LinkedIn</a></li>
         </ol>
     </div>
 </aside><!-- /.blog-sidebar -->
@@ -43,7 +42,7 @@ $cats = $db->select($query);
 </main><!-- /.container -->
 
 <footer class="blog-footer">
-    <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@Ahmed Ali Qureshi</a>.</p>
+    <p>Blog template built <a href="https://getbootstrap.com/"></a> by <a href="https://www.linkedin.com/in/ahmed-ali-qureshi-319420135/">@Ahmed Ali Qureshi</a>.</p>
     <p>
         <a href="#">Back to top</a>
     </p>

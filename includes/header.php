@@ -45,8 +45,7 @@ $post = $db->select($query);
     <div class="nav-scroller py-1 mb-2">
         <nav class="nav d-flex justify-content-between">
             <a class="p-2 text-muted" href="index.php">Home</a>
-            <a class="p-2 text-muted" href="posts.php">All Posts</a>
-            <a class="p-2 text-muted" href="services.php">Services</a>
+
             <a class="p-2 text-muted" href="about.php">About</a>
             <a class="p-2 text-muted" href="contact.php">Contact Us</a>
             <?php  if(isset($_SESSION['email'])):?>

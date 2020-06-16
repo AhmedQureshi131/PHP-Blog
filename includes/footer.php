@@ -6,8 +6,7 @@ $query = "SELECT * FROM categories";
 $cats = $db->select($query);
 ?>
 <nav class="blog-pagination">
-    <a class="btn btn-outline-primary" href="#">Older</a>
-    <a class="btn btn-outline-secondary disabled" href="#" tabindex="-1" aria-disabled="true">Newer</a>
+    <a class="btn btn-outline-primary" href="index.php">Back</a>
 </nav>
 
 </div><!-- /.blog-main -->

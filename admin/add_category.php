@@ -63,7 +63,7 @@ if(isset($_POST['submit'])) {
             <a class="p-2 text-muted" href="index.php">Dashboard</a>
             <a class="p-2 text-muted" href="add_post.php">Add Posts</a>
             <a class="p-2 text-muted" href="add_category.php">Add Category</a>
-            <a class="p-2 text-muted pull-right " href="localhost/blog.php">View Blog </a>
+            <a class="p-2 text-muted pull-right " href="../index.php">View Blog </a>
             <a class="p-2 text-muted pull-right" href="contact.php">Logout</a>
 
         </nav>

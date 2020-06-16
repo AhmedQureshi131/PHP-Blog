@@ -18,7 +18,7 @@ $cats = $db->select($query);
 </main><!-- /.container -->
 
 <footer class="blog-footer">
-    <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@Ahmed Ali Qureshi</a>.</p>
+    <p>Blog template built <a href="https://getbootstrap.com/"></a> by <a href="https://www.linkedin.com/in/ahmed-ali-qureshi-319420135/">@Ahmed Ali Qureshi</a>.</p>
     <p>
         <a href="#">Back to top</a>
     </p>

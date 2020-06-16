@@ -67,10 +67,10 @@ if(isset($_POST['update'])){
     <div class="nav-scroller py-1 mb-2">
         <nav class="nav d-flex justify-content-between">
             <a class="p-2 text-muted" href="index.php">Dashboard</a>
-            <a class="p-2 text-muted" href="posts.php">Add Posts</a>
+            <a class="p-2 text-muted" href="add_post.php">Add Posts</a>
             <a class="p-2 text-muted" href="add_category.php">Add Category</a>
-            <a class="p-2 text-muted pull-right " href="localhost/blog.php">View Blog </a>
-            <a class="p-2 text-muted pull-right" href="contact.php">Logout</a>
+            <a class="p-2 text-muted pull-right " href="../index.php">View Blog </a>
+            <a class="p-2 text-muted pull-right" href="logout.php">Logout</a>
 
         </nav>
     </div>
